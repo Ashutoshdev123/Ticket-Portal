@@ -27,3 +27,6 @@ git merge develop
 
 # Push the merged changes
 git push origin main
+
+if anything you want to change in readme.md file
+git add README.md
