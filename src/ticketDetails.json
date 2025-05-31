@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Alice",
+      "agent": "agent1",
+      "dueDate": "2025-05-28",
+      "status": "open"
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "agent": "agent2",
+      "dueDate": "2025-05-28",
+      "status": "open"
+    },
+    {
+      "id": 3,
+      "name": "Kamal",
+      "agent": "agent3",
+      "dueDate": "2025-05-28",
+      "status": "canceled"
+    },
+    {
+      "id": 4,
+      "name": "Amit",
+      "agent": "agent1",
+      "dueDate": "2025-05-28",
+      "status": "confirm"
+    },
+    {
+      "id": 5,
+      "name": "Rohan",
+      "agent": "agent2",
+      "dueDate": "2025-05-28",
+      "status": "closed"
+    },
+    {
+      "id": 4,
+      "name": "AmitRaj",
+      "agent": "agent1",
+      "dueDate": "2025-05-28",
+      "status": "confirm"
+    }
+  ]

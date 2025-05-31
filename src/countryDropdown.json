@@ -1,0 +1,28 @@
+[
+
+  {
+
+    "country" : "USA",
+
+    "states" : ["California", "Florida", "LA", "Alaska"]
+
+  },
+
+  {
+
+    "country" : "India",
+
+    "states" : ["Tamil Nadu", "Maharashtra", "Punjab"]
+
+  },
+
+  {
+
+    "country" : "Australia",
+
+    "states" : ["New South Wales", "Victoria", "Queensland", "Tasmania"]
+
+  }
+
+]
+ 
